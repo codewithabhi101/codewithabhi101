@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its._.abhiii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibc2005) 
 
-<p align="right">
+<p align="lift">
   <img src="https://komarev.com/ghpvc/?username=codewithabhi101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
