@@ -16,6 +16,9 @@ Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 📫 Reach me at: [abhibc.work@gmail.com](mailto:abhibc.work@gmail.com)
 
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhibc2005/)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its._.abhiii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibc2005) 
 
