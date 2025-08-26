@@ -1,6 +1,33 @@
 <h1 align="center">Hi 👋, I'm Abhi B C </h1>
 <h3 align="center">Frontend Developer | Aspiring Java Backend Developer</h3>
 
+<div class="rotating-ring"></div>
+
+<style>
+.rotating-ring {
+  width: 100px;
+  height: 100px;
+  border: 8px solid transparent;
+  border-top: 8px solid #FF00FF; /* bright pink */
+  border-right: 8px solid #00FFFF; /* cyan */
+  border-radius: 50%;
+  animation: spin 2s linear infinite;
+  box-shadow:
+    0 0 15px #FF00FF,
+    0 0 25px #FF00FF,
+    0 0 40px #00FFFF;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</style>
+
 
 
 
