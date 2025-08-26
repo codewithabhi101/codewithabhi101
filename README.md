@@ -1,6 +1,7 @@
-                                                                              ## Hi 👋, I'm Abhi
+  Hi 👋, I'm Abhi
 
-💻 Frontend Developer | 🌱 Aspiring Java Backend Developer
+
+💻 Frontend Developer | 🌱 Aspiring Java Backend Developer 
 
 
 🛠️ I’m currently working on:
