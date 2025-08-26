@@ -25,21 +25,35 @@ Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 <p align="lift">
   <img src="https://komarev.com/ghpvc/?username=codewithabhi101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011?style=flat-square&logo=github&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C?style=flat-square&logo=c&logoColor=white)
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
+    <td><img src="https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></td>
+    <td><img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></td>
+    <td><img src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
+    <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></td>
+    <td><img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></td>
+    <td><img src="https://img.shields.io/badge/bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></td>
+    <td><img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Canva" /></td>
+    <td><img src="https://img.shields.io/badge/github-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></td>
+    <td><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/c-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 # 📊 GitHub Stats:
