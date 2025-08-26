@@ -1,34 +1,60 @@
 <h1 align="center">Hi 👋, I'm Abhi B C </h1>
 <h3 align="center">Frontend Developer | Aspiring Java Backend Developer</h3>
 
-<div class="rotating-ring"></div>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>CodewithAbhi Style</title>
 <style>
-.rotating-ring {
-  width: 100px;
-  height: 100px;
-  border: 8px solid transparent;
-  border-top: 8px solid #FF00FF; /* bright pink */
-  border-right: 8px solid #00FFFF; /* cyan */
-  border-radius: 50%;
-  animation: spin 2s linear infinite;
-  box-shadow:
-    0 0 15px #FF00FF,
-    0 0 25px #FF00FF,
-    0 0 40px #00FFFF;
-}
-
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
+  body {
+    background-color: black;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
   }
-  100% {
-    transform: rotate(360deg);
+  .logo-container {
+    text-align: center;
+    color: white;
   }
-}
+  .logo-text {
+    font-size: 2.5rem;
+    font-weight: 600;
+  }
+  .logo-text .with {
+    color: #74c044; /* Green color */
+    font-weight: 400;
+  }
+  .tagline {
+    margin-top: 5px;
+    font-size: 0.9rem;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-family: monospace;
+  }
+  .tagline .build {
+    color: #74c044; /* same green */
+    font-weight: 600;
+  }
 </style>
+</head>
+<body>
 
+<div class="logo-container">
+  <div class="logo-text">
+    Code<span class="with">with</span><strong>Abhi</strong>
+  </div>
+  <div class="tagline">
+    { LEARN <span class="build">BUILD</span> GROW }
+  </div>
+</div>
 
+</body>
+</html>
 
 
 🛠️ I’m currently working on:
