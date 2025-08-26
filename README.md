@@ -25,7 +25,10 @@ Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 <p align="lift">
   <img src="https://komarev.com/ghpvc/?username=codewithabhi101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-# 💻 Tech Stack:
+
+<h2 style="font-size: 36px; font-weight: 700; margin-bottom: 20px;">
+  Tech Stack:
+</h2>
 
 <table>
   <tr>
