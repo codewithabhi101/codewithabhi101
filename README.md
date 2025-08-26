@@ -1,3 +1,15 @@
+
+
+🛠️ I’m currently working on:
+Building projects in Java to strengthen my backend development skills and transition into a full-stack role.
+
+🌱 I’m currently learning:
+Core Java, Spring Boot, and backend architecture best practices.
+
+💬 Ask me about:
+Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its._.abhiii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibc2005) 
 
