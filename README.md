@@ -27,7 +27,7 @@ Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 </p>
 
 <h2 style="font-size: 36px; font-weight: 700; margin-bottom: 20px;">
-  Tech Stack:
+ 💻Tech Stack:
 </h2>
 
 <table>
