@@ -4,8 +4,6 @@
 <img src="java.gif" alt="Java Animation" style="display:block; margin: 0 auto;" />
 
 
-
-
 🛠️ I’m currently working on:
 Building projects in Java to strengthen my backend development skills and transition into a full-stack role.
 
