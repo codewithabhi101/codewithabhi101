@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhi B C </h1>
 
-![Java Animation](java.gif)
+<div align="center">
+  <img src="java.gif" alt="Java Animation" />
+</div>
 
 <h3 align="center">Frontend Developer | Aspiring Java Backend Developer</h3>
 
