@@ -16,7 +16,8 @@ Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhibc2005/)
 
-📄 View my resume: [Resume](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+📄 Check out my [Resume](https://drive.google.com/file/d/1AbcD3FgHiJKlMnO9PQz/view?usp=sharing)
+
 
 
 ## 🌐 Socials:
