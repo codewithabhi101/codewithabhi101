@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhi B C </h1>
 <h3 align="center">Frontend Developer | Aspiring Java Backend Developer</h3>
 
-<div style="text-align: center;">
-  <img src="java.gif" alt="Java Animation" />
-</div>
+<img src="java.gif" alt="Java Animation" style="display:block; margin: 0 auto;" />
 
 
 
