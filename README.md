@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhi B C </h1>
 
  
-<p align="center">
-  <img src="java.gif" alt="Java Animation" style="max-width: 100%; width: 100%;" />
-</p>
+
 
 
 <h3 align="center">Frontend Developer | Aspiring Java Backend Developer</h3>
