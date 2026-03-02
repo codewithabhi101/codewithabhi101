@@ -10,11 +10,10 @@
 
 
 🛠️ I’m currently working on:
-Building projects in Java to strengthen my backend development skills and transition into a full-stack role.
+Building modern web applications using Next.js and TypeScript, while strengthening my problem-solving skills through regular DSA practice.
 
 🌱 I’m currently learning:
-Core Java, Spring Boot, and backend architecture best practices.
-
+Advanced Next.js concepts, TypeScript best practices, and improving my understanding of Data Structures & Algorithms.
 💬 Ask me about:
 Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 
@@ -22,7 +21,7 @@ Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhibc2005/)
 
-📄 Check out my [Resume](https://drive.google.com/file/d/1AbcD3FgHiJKlMnO9PQz/view?usp=sharing)
+📄 Resume: https://drive.google.com/file/d/1AbcD3FgHiJKlMnO9PQz/view
 
 
 
