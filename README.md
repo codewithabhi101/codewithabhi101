@@ -1,27 +1,27 @@
+<h1 align="center">Hi 👋, I'm Abhi B C</h1>
 
-<h1 align="center">Hi 👋, I'm Abhi B C </h1>
+<h3 align="center">Frontend Developer | Next.js & TypeScript Enthusiast</h3>
 
- 
+---
 
+🛠️ <b>Currently Working On:</b><br>
+Building modern, scalable web applications using <b>Next.js</b> and <b>TypeScript</b>, while strengthening problem-solving skills through consistent <b>DSA practice</b>.
 
+🌱 <b>Currently Learning:</b><br>
+Advanced Next.js concepts, TypeScript best practices, and deeper understanding of Data Structures & Algorithms.
 
-<h3 align="center">Frontend Developer | Aspiring Java Backend Developer</h3>
+💬 <b>Ask Me About:</b><br>
+Frontend development — HTML, CSS, JavaScript, React.js, and Next.js.
 
+📄 <b>Resume:</b><br>
+<a href="https://drive.google.com/file/d/1AbcD3FgHiJKlMnO9PQz/view" target="_blank">View My Resume (PDF)</a>
 
+📫 <b>Reach Me At:</b><br>
+<a href="mailto:abhibc.work@gmail.com">abhibc.work@gmail.com</a>
 
-🛠️ I’m currently working on:
-Building modern web applications using Next.js and TypeScript, while strengthening my problem-solving skills through regular DSA practice.
+🔗 <b>Connect With Me:</b><br>
+<a href="https://www.linkedin.com/in/abhibc2005/" target="_blank">LinkedIn</a>
 
-🌱 I’m currently learning:
-Advanced Next.js concepts, TypeScript best practices, and improving my understanding of Data Structures & Algorithms.
-💬 Ask me about:
-Frontend development, especially HTML, CSS, JavaScript, and modern frameworks
-
-📫 Reach me at: [abhibc.work@gmail.com](mailto:abhibc.work@gmail.com)
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhibc2005/)
-
-📄 Resume: https://drive.google.com/file/d/1AbcD3FgHiJKlMnO9PQz/view
 
 
 
