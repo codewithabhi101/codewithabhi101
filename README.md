@@ -46,7 +46,9 @@ View My Resume (PDF)
     <td><img src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Typescript" /></td>
+   <td>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</td>
     <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></td>
   <td><img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
     <td><img src="https://img.shields.io/badge/bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
