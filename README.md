@@ -14,7 +14,9 @@ Advanced Next.js concepts, TypeScript best practices, and deeper understanding o
 Frontend development — HTML, CSS, JavaScript, React.js, and Next.js.
 
 📄 <b>Resume:</b><br>
-<a href="https://drive.google.com/file/d/1AbcD3FgHiJKlMnO9PQz/view" target="_blank">View My Resume (PDF)</a>
+<a href="https://drive.google.com/file/d/1IFT4oYjesWx_ChmdKGB84WuxybWAAZW4/preview" target="_blank">
+View My Resume (PDF)
+</a>
 
 📫 <b>Reach Me At:</b><br>
 <a href="mailto:abhibc.work@gmail.com">abhibc.work@gmail.com</a>
