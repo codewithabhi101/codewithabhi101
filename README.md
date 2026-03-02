@@ -40,15 +40,15 @@ View My Resume (PDF)
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
+      <td><img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></td>
     <td><img src="https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></td>
     <td><img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></td>
     <td><img src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></td>
+    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Typescript" /></td>
     <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></td>
-    <td><img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></td>
+  <td><img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
     <td><img src="https://img.shields.io/badge/bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
   </tr>
   <tr>
