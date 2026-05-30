@@ -4,18 +4,22 @@
 
 <div align="center">
   <a href="https://abhi13protfolio.netlify.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-00ffc6?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-abhi13protfolio.netlify.app-00ffc6?style=flat-square&logo=netlify&logoColor=black"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/abhibc2005">
-    <img src="https://img.shields.io/badge/LinkedIn-abhibc2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abhi%20B%20C-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:abhibc.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abhibc.work%40gmail.com-ff3fa4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-abhibc.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=codewithabhi101&style=for-the-badge&color=00ffc6&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/codewithabhi101">
+    <img src="https://img.shields.io/badge/GitHub-codewithabhi101-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=codewithabhi101&style=flat-square&color=00ffc6&label=Profile+Views"/>
 </div>
 
 <br/>
