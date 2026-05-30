@@ -1,24 +1,64 @@
-# Hi, I'm Abhi B C 👋
+<div align="center">
 
-Frontend Developer specializing in **Next.js** and **TypeScript** with full-stack experience.
+# Hey, I'm Abhi B C 👋
+### Frontend Developer · Next.js · TypeScript · Full-Stack
 
-## 🚀 What I Build
-- Production-grade SaaS apps with JWT auth & REST APIs
-- Responsive, mobile-first UIs with clean component architecture
-- Full-stack apps using Next.js + Node.js + MongoDB
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhi13protfolio.netlify.app-00ffc6?style=for-the-badge&logo=netlify&logoColor=black)](https://abhi13protfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhibc2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibc2005)
+[![Email](https://img.shields.io/badge/Email-abhibc.work@gmail.com-ff3fa4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibc.work@gmail.com)
 
-## 💼 Featured Projects
-| Project | Stack | Live |
-|---------|-------|------|
-| **SubTracker** — Subscription SaaS | Next.js · Node.js · MongoDB · JWT | [Live](https://subtracker-murex.vercel.app) |
-| **Task Manager Dashboard** | Next.js · TypeScript · CRUD | [Live](https://task-manager-dashboard123.netlify.app) |
-| **Agriculture Dept Website** | Next.js · TypeScript · Responsive | [Live](https://agrdemo1.netlify.app) |
-| **Portfolio** | Vite · CSS · Vanilla JS | [Live](https://abhi13protfolio.netlify.app) |
+</div>
+
+---
+
+## 🙋 About Me
+
+- 🔭 Building scalable web apps with **Next.js** and **TypeScript**
+- 🚀 Shipped **SubTracker** — a production-grade full-stack SaaS
+- 💡 Strong in **component architecture**, **REST APIs**, and **JWT auth**
+- 🌱 Currently deepening skills in **Next.js App Router** and **DSA**
+- 💼 Open to **Frontend / Full-Stack Internships**
+
+---
 
 ## 🔧 Tech Stack
-`Next.js` `TypeScript` `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Git`
 
-## 📬 Contact
-- Email: abhibc.work@gmail.com
-- LinkedIn: [abhibc2005](https://linkedin.com/in/abhibc2005)
-- Portfolio: [abhi13protfolio.netlify.app](https://abhi13protfolio.netlify.app)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🏆 **SubTracker** | Production SaaS for subscription management with JWT auth & AI insights | Next.js · Node.js · MongoDB | [→ Live](https://subtracker-murex.vercel.app) |
+| 📋 **Task Manager** | Full-featured dashboard with CRUD & search | Next.js · TypeScript | [→ Live](https://task-manager-dashboard123.netlify.app) |
+| 🌾 **Agriculture Website** | Responsive multi-page institutional site | Next.js · TypeScript | [→ Live](https://agrdemo1.netlify.app) |
+| 💼 **Portfolio** | Personal dev portfolio with animations | Vite · CSS · JS | [→ Live](https://abhi13protfolio.netlify.app) |
+
+---
+
+<div align="center">
+
+💬 **Open to frontend / full-stack internship opportunities — let's build something great!**
+
+</div>
