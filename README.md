@@ -3,23 +3,27 @@
 </div>
 
 <div align="center">
-  <a href="https://abhi13protfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-abhi13protfolio.netlify.app-00ffc6?style=flat-square&logo=netlify&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/abhibc2005">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhi%20B%20C-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abhibc.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhibc.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/codewithabhi101">
-    <img src="https://img.shields.io/badge/GitHub-codewithabhi101-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=codewithabhi101&style=flat-square&color=00ffc6&label=Profile+Views"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=true&width=600&height=40&lines=🌐+Portfolio+·+💼+LinkedIn+·+📬+Email+·+🐙+GitHub)](https://abhi13protfolio.netlify.app)
+
+<a href="https://abhi13protfolio.netlify.app">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-abhi13protfolio.netlify.app-00ffc6?style=flat-square&logo=netlify&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/abhibc2005">
+  <img src="https://img.shields.io/badge/💼 LinkedIn-Abhi B C-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:abhibc.work@gmail.com">
+  <img src="https://img.shields.io/badge/📬 Email-abhibc.work@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/codewithabhi101">
+  <img src="https://img.shields.io/badge/🐙 GitHub-codewithabhi101-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=codewithabhi101&style=flat-square&color=00ffc6&label=Profile+Views"/>
+
 </div>
 
 <br/>
