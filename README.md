@@ -1,75 +1,24 @@
-<h1 align="center">Hi 👋, I'm Abhi B C</h1>
+# Hi, I'm Abhi B C 👋
 
-<h3 align="center">Frontend Developer | Next.js & TypeScript Enthusiast</h3>
+Frontend Developer specializing in **Next.js** and **TypeScript** with full-stack experience.
 
----
+## 🚀 What I Build
+- Production-grade SaaS apps with JWT auth & REST APIs
+- Responsive, mobile-first UIs with clean component architecture
+- Full-stack apps using Next.js + Node.js + MongoDB
 
-🛠️ <b>Currently Working On:</b><br>
-Building modern, scalable web applications using <b>Next.js</b> and <b>TypeScript</b>, while strengthening problem-solving skills through consistent <b>DSA practice</b>.
+## 💼 Featured Projects
+| Project | Stack | Live |
+|---------|-------|------|
+| **SubTracker** — Subscription SaaS | Next.js · Node.js · MongoDB · JWT | [Live](https://subtracker-murex.vercel.app) |
+| **Task Manager Dashboard** | Next.js · TypeScript · CRUD | [Live](https://task-manager-dashboard123.netlify.app) |
+| **Agriculture Dept Website** | Next.js · TypeScript · Responsive | [Live](https://agrdemo1.netlify.app) |
+| **Portfolio** | Vite · CSS · Vanilla JS | [Live](https://abhi13protfolio.netlify.app) |
 
-🌱 <b>Currently Learning:</b><br>
-Advanced Next.js concepts, TypeScript best practices, and deeper understanding of Data Structures & Algorithms.
+## 🔧 Tech Stack
+`Next.js` `TypeScript` `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Git`
 
-💬 <b>Ask Me About:</b><br>
-Frontend development — HTML, CSS, JavaScript, React.js, and Next.js.
-
-📄 <b>Resume:</b><br>
-<a href="https://drive.google.com/file/d/1IFT4oYjesWx_ChmdKGB84WuxybWAAZW4/preview" target="_blank">
-View My Resume (PDF)
-</a>
-
-📫 <b>Reach Me At:</b><br>
-<a href="mailto:abhibc.work@gmail.com">abhibc.work@gmail.com</a>
-
-🔗 <b>Connect With Me:</b><br>
-<a href="https://www.linkedin.com/in/abhibc2005/" target="_blank">LinkedIn</a>
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its._.abhiii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibc2005) 
-
-<p align="lift">
-  <img src="https://komarev.com/ghpvc/?username=codewithabhi101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<h2 style="font-size: 36px; font-weight: 700; margin-bottom: 20px;">
- 💻Tech Stack:
-</h2>
-
-<table>
-  <tr>
-      <td><img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></td>
-    <td><img src="https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></td>
-    <td><img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></td>
-    <td><img src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></td>
-  </tr>
-  <tr>
-   <td>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</td>
-    <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></td>
-  <td><img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
-    <td><img src="https://img.shields.io/badge/bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></td>
-    <td><img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Canva" /></td>
-    <td><img src="https://img.shields.io/badge/github-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></td>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/c-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-# 📊 GitHub Stats: 
-
-![](https://github-readme-stats.vercel.app/api?username=codewithabhi101&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/> 
-[![](https://visitcount.itsvg.in/api?id=codewithabhi101&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://nirzak-streak-stats.vercel.app/?user=codewithabhi101&theme=dark&hide_border=false)<br/>
-
+## 📬 Contact
+- Email: abhibc.work@gmail.com
+- LinkedIn: [abhibc2005](https://linkedin.com/in/abhibc2005)
+- Portfolio: [abhi13protfolio.netlify.app](https://abhi13protfolio.netlify.app)
